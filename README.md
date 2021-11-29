@@ -7,3 +7,5 @@ We will use Git to record all of the versions of this file, letting us move abck
 
 For example, in this first version of the file we 
 will say that the cat goes meow.
+
+I like kittens too
